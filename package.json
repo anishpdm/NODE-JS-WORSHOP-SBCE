@@ -1,0 +1,24 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "description": "this is my first node pgm class at sbce",
+  "main": "AddModule.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishpdm/NODE-JS-WORSHOP-SBCE.git"
+  },
+  "author": "Anish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishpdm/NODE-JS-WORSHOP-SBCE/issues"
+  },
+  "homepage": "https://github.com/anishpdm/NODE-JS-WORSHOP-SBCE#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
